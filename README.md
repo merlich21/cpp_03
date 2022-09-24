@@ -1,2 +1,2 @@
-# cpp_03
+# C++ - Module 03
 Inheritance
